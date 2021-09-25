@@ -1,0 +1,27 @@
+.search-container {
+    background-color: #222f3e;
+    text-align: center;
+    line-height: 30px;
+}
+.search-container input {
+    outline: 0;
+    width: 50%;
+    padding: 0 10px;
+}
+.shop-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 20px;
+}
+.food-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 15px;
+    grid-row-gap: 30px;
+    border-right: 1px solid lightgray;
+    margin-right: 10px;
+    margin-left: 50px;
+}
+.cart-container {
+    background-color: lightgray;
+}

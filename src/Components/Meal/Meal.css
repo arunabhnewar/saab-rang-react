@@ -1,0 +1,27 @@
+.meal-card {
+    background-color: #ecf0f1;
+    margin-right: 20px;
+}
+.card-details {
+    margin-left: 20px;
+}
+.youtube-btn {
+    border: 0;
+    background-color: green;
+    margin-bottom: 20px;
+    width: 80px;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+.youtube-btn a{
+    text-decoration: none;
+    color: #fff;
+}
+.cart-btn {
+    border: 0;
+    background-color: green;
+    color: #fff;
+    margin-bottom: 20px;
+    width: 110px;
+    border-radius: 4px;
+}

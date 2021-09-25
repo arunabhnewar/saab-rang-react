@@ -1,0 +1,28 @@
+.header {
+    text-align: center;
+    margin-top: 5px;
+}
+.logo {
+    height: 100px;
+    width: 350px;
+}
+.header nav {
+    background-color: green;
+    margin-top: 10px;
+    line-height: 45px;
+    text-align: left;
+    padding-left: 50px;
+}
+.header nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 1.5em;
+    font-weight: 600;
+    padding: 5px;
+    transition: 0.4s linear;
+}
+.header nav a:hover {
+    color: green;
+    background-color: #fff;
+}
